@@ -1,2 +1,1 @@
-# styles-reset
-styles for reset
+# Reset Styles
