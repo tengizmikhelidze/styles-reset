@@ -1,1 +1,1 @@
-# Reset Styles
+# Reset Styles(scss)
